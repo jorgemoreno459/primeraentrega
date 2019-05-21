@@ -1,0 +1,15 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.1",
+  "description": "Primera entrega",
+  "main": "archivo.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Moreno",
+  "license": "ISC"
+}

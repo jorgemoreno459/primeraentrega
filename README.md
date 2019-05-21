@@ -1,0 +1,1 @@
+#Para inscribirte a un curso es necesario que uses el comando inscribir
